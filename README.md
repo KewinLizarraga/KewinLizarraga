@@ -4,13 +4,13 @@
 
 ## Hi there 👋
 
-### Connect with me:
+<!-- ### Connect with me: -->
 
-[<img src="https://img.shields.io/badge/codepen-%231E1F26.svg?&style=for-the-badge&logo=codepen&logoColor=white" />](https://codepen.io/kewinlizarraga)
-[<img src ="https://img.shields.io/badge/hackerrank-%2369C967.svg?&style=for-the-badge&logo=hackerrank&logoColor=white">](https://www.hackerrank.com/kewin392)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](#)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](#)
-[<img src ="https://img.shields.io/badge/whatsapp-%234AC959.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://api.whatsapp.com/send?phone=+51979374709&text=Hola%20Kewin,%20...)
+<!-- [<img src="https://img.shields.io/badge/codepen-%231E1F26.svg?&style=for-the-badge&logo=codepen&logoColor=white" />](https://codepen.io/kewinlizarraga) -->
+<!-- [<img src ="https://img.shields.io/badge/hackerrank-%2369C967.svg?&style=for-the-badge&logo=hackerrank&logoColor=white">](https://www.hackerrank.com/kewin392) -->
+<!-- [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](#) -->
+<!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](#) -->
+<!-- [<img src ="https://img.shields.io/badge/whatsapp-%234AC959.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://api.whatsapp.com/send?phone=+51979374709&text=Hola%20Kewin,%20...) -->
 
 ### Languages and Tools:
 
