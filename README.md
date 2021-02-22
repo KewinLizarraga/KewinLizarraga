@@ -12,9 +12,9 @@
 <!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](#) -->
 <!-- [<img src ="https://img.shields.io/badge/whatsapp-%234AC959.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://api.whatsapp.com/send?phone=+51979374709&text=Hola%20Kewin,%20...) -->
 
-### Languages and Tools:
+<!-- ### Languages and Tools: -->
 
-![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5)
+<!-- ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap)
 ![VueJS](https://img.shields.io/badge/-VueJS-000?style=flat&logo=vue.js)
@@ -22,7 +22,7 @@
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=flat&logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
-![Heroku](https://img.shields.io/badge/-Heroku-000?style=flat&logo=heroku)
+![Heroku](https://img.shields.io/badge/-Heroku-000?style=flat&logo=heroku)  -->
 
 ### Languages Top and Stats:
 
