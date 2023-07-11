@@ -1,7 +1,5 @@
 ![Kewin Lizárraga](./docs/kprofile.gif)
 
-![Profile views](https://gpvc.arturio.dev/kewinlizarraga)
-
 ## Hi there 👋
 
 <!-- ### Connect with me: -->
