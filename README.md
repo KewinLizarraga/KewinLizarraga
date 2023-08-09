@@ -26,8 +26,6 @@
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kewinlizarraga&show_icons=true&layout=compact&langs_count=10&theme=dark)
 
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=kewinlizarraga&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
-
 [![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/KewinLizarraga?cardType=level&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
