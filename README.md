@@ -25,7 +25,8 @@
 ### Languages Top and Stats:
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kewinlizarraga&show_icons=true&layout=compact&langs_count=10&theme=dark)
-![Stats](https://github-readme-stats.vercel.app/api?username=kewinlizarraga&show_icons=true&theme=dark&count_private=true)
+
+[![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/KewinLizarraga?cardType=level&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
 <!--
